@@ -1,2 +1,1 @@
-# ratzepue.github.io
-pages
+Whitelists for VRChat.
